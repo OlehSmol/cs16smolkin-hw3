@@ -1,7 +1,5 @@
 package ua.edu.ucu.smartarr;
 
-import sun.plugin.javascript.navig.Array;
-
 import java.util.ArrayList;
 
 // Remove duplicates from SmartArray. Use method equals() to compare objects
